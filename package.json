@@ -1,6 +1,6 @@
 {
   "name": "find-firebase-project-with-any-role",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Find Firebase projects you have access to that you have the roles provided",
   "type": "module",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amalej/find-firebase-project-with-role.git"
+    "url": "git+https://github.com/amalej/find-firebase-project-with-any-role.git"
   },
   "keywords": [
     "find",
@@ -24,9 +24,9 @@
   "author": "amalej",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amalej/find-firebase-project-with-role/issues"
+    "url": "https://github.com/amalej/find-firebase-project-with-any-role/issues"
   },
-  "homepage": "https://github.com/amalej/find-firebase-project-with-role#readme",
+  "homepage": "https://github.com/amalej/find-firebase-project-with-any-role#readme",
   "dependencies": {
     "cli-progress": "^3.12.0",
     "configstore": "^7.0.0",
