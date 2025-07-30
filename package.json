@@ -1,6 +1,6 @@
 {
   "name": "find-firebase-project-with-any-role",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Find Firebase projects you have access to that you have the roles provided",
   "type": "module",
   "main": "index.js",
